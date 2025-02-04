@@ -23,5 +23,5 @@ I'm a passionate Frontend Developer who loves to blend creativity with innovatio
 </table>
 
 # Do you like my work?
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yourname)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frontendrheina)
 
