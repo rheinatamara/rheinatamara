@@ -1,5 +1,5 @@
 ## Hi, I'm Rheina 👋
-I'm a passionate Frontend Developer who loves to blend creativity with innovation.
+I'm a passionate Fullstack Developer who loves to blend creativity with innovation.
 - 🔭 I’m always working on fun and interactive websites (check my pinned repositories!)
 - 🌱 I’m currently learning **Swift,TypeScript and How to make good sunny side-up egg**
 - 💬 Ask me about **HTML CSS JavaScript**
